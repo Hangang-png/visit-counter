@@ -1,9 +1,7 @@
 {
   "version": 2,
   "functions": {
-    "api/visits.js": {
-      "runtime": "nodejs16.x"
-    }
+    "api/visits.js": {}
   },
   "routes": [
     {
